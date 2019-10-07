@@ -1,0 +1,6 @@
+bazel-bin
+bazel-genfiles
+bazel-ike
+bazel-out
+bazel-testlogs
+external_rules/
