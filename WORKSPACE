@@ -1,5 +1,5 @@
 
-workspace(name = "ike")
+workspace(name = "base")
 
 EXTR = "external_rules"
 
